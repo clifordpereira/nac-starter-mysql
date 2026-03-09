@@ -1,4 +1,5 @@
 # nuxt-auto-crud Minimal Starter with mysql
+A pre configured nuxt-auto-crud starter with mysql database.
 
 ## Installation
 
@@ -52,9 +53,8 @@ Please remember to run `nuxt db generate` after adding new schema.
 
 Example AutoCrud configuration is provided in `nuxt.config.example.ts` file. You can copy the necessary configuration from it to `nuxt.config.ts` and modify it as per your requirements.
 
-## Agentic Discovery
-Access the auto-generated API manifest for LLM/MCP tooling:
-`GET /api/_nac/_meta?format=md`
+For more details, please visit [nuxt-auto-crud GitHub Repo](https://github.com/clifordpereira/nuxt-auto-crud).
+Or npm package [nuxt-auto-crud](https://www.npmjs.com/package/nuxt-auto-crud).
 
 ## Thank You
 Best wishes for you coding career.

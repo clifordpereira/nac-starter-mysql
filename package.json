@@ -14,7 +14,7 @@
     "drizzle-orm": "^1.0.0-beta.15-859cf75",
     "mysql2": "^3.18.2",
     "nuxt": "^4.3.1",
-    "nuxt-auto-crud": "^2.3.0",
+    "nuxt-auto-crud": "^2.4.0",
     "vue": "^3.5.29",
     "vue-router": "^4.6.4"
   },
