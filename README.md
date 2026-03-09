@@ -4,8 +4,14 @@ A pre configured nuxt-auto-crud starter with mysql database.
 ## Installation
 
 ```bash
-npx nuxi init -t gh:clifordpereira/nac-starter-mysql my-app
+npx nuxi init -t gh:clifordpereira/nac-starter-mysql my-app --no-install
 cd my-app
+cp .env.example .env
+```
+
+## Install Dependencies
+```bash
+bun install
 ```
 
 ## Generate migrations
